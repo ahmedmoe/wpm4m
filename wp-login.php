@@ -9,18 +9,18 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; m4m &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='./wp-includes/css/dashicons.min.css?ver=5.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='./wp-includes/css/buttons.min.css?ver=5.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='./wp-admin/css/forms.min.css?ver=5.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='./wp-admin/css/l10n.min.css?ver=5.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='./wp-admin/css/login.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='./wp-includes/css/dashicons.min.css?ver=5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='./wp-includes/css/buttons.min.css?ver=5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='./wp-admin/css/forms.min.css?ver=5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='./wp-admin/css/l10n.min.css?ver=5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='./wp-admin/css/login.min.css?ver=5.2' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
 		</head>
 	<body class="login login-action-login wp-core-ui  locale-en-us">
 		<div id="login">
-		<h1><a href="https://wordpress.org/" title="Powered by WordPress">Powered by WordPress</a></h1>
+		<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
 	
 	<form name="loginform" id="loginform" action="./" method="post">
 	<p>
